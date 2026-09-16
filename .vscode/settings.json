@@ -1,0 +1,5 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlayHints.enabled": "on",
+    "csharp.inlayHints.parameterNames.enabled": "all"
+}

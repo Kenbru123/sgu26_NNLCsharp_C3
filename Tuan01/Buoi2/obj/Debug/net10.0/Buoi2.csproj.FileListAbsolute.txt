@@ -1,0 +1,15 @@
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\bin\Debug\net10.0\Buoi2.exe
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\bin\Debug\net10.0\Buoi2.deps.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\bin\Debug\net10.0\Buoi2.runtimeconfig.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\bin\Debug\net10.0\Buoi2.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\bin\Debug\net10.0\Buoi2.pdb
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.AssemblyInfoInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.AssemblyInfo.cs
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.csproj.CoreCompileInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.sourcelink.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\refint\Buoi2.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.pdb
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\Buoi2.genruntimeconfig.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi2\obj\Debug\net10.0\ref\Buoi2.dll
