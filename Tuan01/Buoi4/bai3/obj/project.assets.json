@@ -8,24 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hauth\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\daide\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi4\\bai3\\bai3.csproj",
+      "projectUniqueName": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi4\\bai3\\bai3.csproj",
       "projectName": "bai3",
-      "projectPath": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi4\\bai3\\bai3.csproj",
-      "packagesPath": "C:\\Users\\hauth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hauth\\OneDrive\\Tài liệu\\GitHub\\CSharp\\Buoi4\\bai3\\obj\\",
+      "projectPath": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi4\\bai3\\bai3.csproj",
+      "packagesPath": "C:\\Users\\daide\\.nuget\\packages\\",
+      "outputPath": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi4\\bai3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hauth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\daide\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

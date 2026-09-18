@@ -13,3 +13,18 @@ C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Buoi5\bai2\obj\Debug\net10.0\r
 C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Buoi5\bai2\obj\Debug\net10.0\bai2.pdb
 C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Buoi5\bai2\obj\Debug\net10.0\bai2.genruntimeconfig.cache
 C:\Users\hauth\OneDrive\Tài liệu\GitHub\CSharp\Buoi5\bai2\obj\Debug\net10.0\ref\bai2.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\bin\Debug\net10.0\bai2.exe
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\bin\Debug\net10.0\bai2.deps.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\bin\Debug\net10.0\bai2.runtimeconfig.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\bin\Debug\net10.0\bai2.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\bin\Debug\net10.0\bai2.pdb
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.AssemblyInfoInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.AssemblyInfo.cs
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.csproj.CoreCompileInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.sourcelink.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\refint\bai2.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.pdb
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\bai2.genruntimeconfig.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi5\bai2\obj\Debug\net10.0\ref\bai2.dll

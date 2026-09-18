@@ -1,13 +1,13 @@
 ﻿using System;
-namespace timbenhatthoa
+namespace Tuan01.Buoi5
 {
-    class timbenhatthoa
+    class bai4
     {
         static void Main(String[] args)
         {
             double a;
             Console.WriteLine("Nhap vao so thuc a: ");
-            a = double.Parse(Console.ReadLine());
+            a = double.Parse(Console.ReadLine()!);
             double result = 0;
             int n = 1;
             while (result <= a)

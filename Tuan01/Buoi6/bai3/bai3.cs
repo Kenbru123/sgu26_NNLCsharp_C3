@@ -1,13 +1,13 @@
 ﻿using System;
 
-namespace phantichthuasonguyento
+namespace Tuan01.Buoi6
 {
-    class phantich
+    class bai3
     {
         static void Main(string[] args)
         {
             Console.Write("Moi ban nhap so nguyen n: ");
-            int n = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine()!);
 
             int nGoc = n;
             int i = 2;

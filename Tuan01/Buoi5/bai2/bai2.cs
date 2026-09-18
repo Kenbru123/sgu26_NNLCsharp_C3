@@ -1,13 +1,13 @@
 ﻿using System;
-namespace bieuthuc
+namespace Tuan01.Buoi5
 {
-    class giatribieuthuc
+    class bai2
     {
         static void Main(String[] args)
         {
             int n;
             Console.WriteLine("Moi ban nhap so nguyen n: ");
-            n = int.Parse(Console.ReadLine());
+            n = int.Parse(Console.ReadLine()!);
             double s1 = 0;
             double s2 = 1/n;
             for (int i = 1; i <= n; i++)

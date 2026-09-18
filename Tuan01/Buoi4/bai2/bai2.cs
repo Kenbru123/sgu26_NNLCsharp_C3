@@ -1,16 +1,16 @@
 ﻿using System;
-namespace tiennuoc
+namespace Tuan01.Buoi4
 {
-    class tinhtiennuoc
+    class bai2
     {
         static void Main(string[] args)
         {
             int thangtruoc;
             int thangnay;
             Console.WriteLine("Moi ban nhap chi so tieu thu nuoc thang truoc (m^3): ");
-            thangtruoc = int.Parse(Console.ReadLine());
+            thangtruoc = int.Parse(Console.ReadLine()!);
             Console.WriteLine("Moi ban nhap chi so tieu thu nuoc thang nay (m^3): ");
-            thangnay= int.Parse(Console.ReadLine());
+            thangnay= int.Parse(Console.ReadLine()!);
             int sonuoc;
             sonuoc = thangnay - thangtruoc;
             int sotien = 0;

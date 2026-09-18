@@ -1,17 +1,17 @@
 ﻿using System;
-namespace xulychuso
+namespace Tuan01.Buoi6
 {
-    class xulychuso
+    class bai2
     {
         static void Main(String[] args)
         {
             int n;
             int k;
             Console.WriteLine("Moi ban nhap so nguyen n: ");
-            n = int.Parse(Console.ReadLine());
+            n = int.Parse(Console.ReadLine()!);
             int dem = count(n);
             Console.WriteLine("Moi ban nhap vi tri k: ");
-            k = int.Parse(Console.ReadLine());
+            k = int.Parse(Console.ReadLine()!);
             chusok(k,n,dem);
             tongle(k,n,dem);
             nhoIlonI(k,n,dem);

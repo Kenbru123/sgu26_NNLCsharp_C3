@@ -1,30 +1,37 @@
 ﻿using System;
-namespace inhinhivau
+
+namespace Tuan1.Buoi6
 {
-    class inhinh
+    class bai1
     {
-        static void Main(String[] args)
+        static void Main(string[] args)
         {
             int h;
-            Console.WriteLine("Moi ban nhap vao do cao h: ");
-            h = int.Parse(Console.ReadLine());
-            Console.Clear();
-            for (int i = 0; i <= h; i++)
+            Console.Write("Moi ban nhap chieu cao h: ");
+            h = int.Parse(Console.ReadLine()!);
+            Console.WriteLine($"Chu I va U ung voi h = {h} la:");
+            for (int i = 1; i <= h; i++)
             {
-                Console.SetCursorPosition(i,1);
-                Console.Write("*");
+                for (int j = 1; j <= h; j++)
+                {
+                    if (i == 1 || i == h || j == (h + 1) / 2)
+                        Console.Write("* ");
+                    else
+                        Console.Write("  ");
+                }
+
+                Console.Write("  ");
+
+                for (int j = 1; j <= h; j++)
+                {
+                    if (j == 1 || j == h || i == h)
+                        Console.Write("* ");
+                    else
+                        Console.Write("  ");
+                }
+
+                Console.WriteLine();
             }
-            for (int i = 2; i <= h - 1; i++)
-            {
-                Console.SetCursorPosition((h-1)/2, i);
-                Console.Write("*");
-            }
-            for (int i = 0; i <= h; i++)
-            {
-                Console.SetCursorPosition(i,h);
-                Console.Write("*");
-            }
-            Console.SetCursorPosition(0,h+2);
         }
     }
 }

@@ -1,16 +1,16 @@
 ﻿using System;
-namespace tongphanso
+namespace Tuan01.Buoi5
 {
-    class tongphanso
+    class bai3
     {
         static void Main(String[] args)
         {
             double a;
             double E;
             Console.WriteLine("Moi ban nhap so a: ");
-            a = double.Parse(Console.ReadLine());
+            a = double.Parse(Console.ReadLine()!);
             Console.WriteLine("Moi ban nhap so epsilon (<= 0.1): ");
-            E = double.Parse(Console.ReadLine());
+            E = double.Parse(Console.ReadLine()!);
             double result = 0;
             if (E > 0.1)
             {
