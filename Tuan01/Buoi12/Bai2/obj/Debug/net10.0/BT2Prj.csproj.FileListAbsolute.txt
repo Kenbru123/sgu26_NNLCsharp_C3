@@ -1,0 +1,15 @@
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\bin\Debug\net10.0\BT2Prj.exe
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\bin\Debug\net10.0\BT2Prj.deps.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\bin\Debug\net10.0\BT2Prj.runtimeconfig.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\bin\Debug\net10.0\BT2Prj.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\bin\Debug\net10.0\BT2Prj.pdb
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.GeneratedMSBuildEditorConfig.editorconfig
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.AssemblyInfoInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.AssemblyInfo.cs
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.csproj.CoreCompileInputs.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.sourcelink.json
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\refint\BT2Prj.dll
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.pdb
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\BT2Prj.genruntimeconfig.cache
+D:\sgu26_NNLCsharp_C3\Tuan01\Buoi12\Bai2\obj\Debug\net10.0\ref\BT2Prj.dll

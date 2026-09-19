@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\bai2\\Bai2.csproj": {}
+    "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\Bai2\\Bai2.csproj": {}
   },
   "projects": {
-    "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\bai2\\Bai2.csproj": {
+    "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\Bai2\\Bai2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\bai2\\Bai2.csproj",
+        "projectUniqueName": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\Bai2\\Bai2.csproj",
         "projectName": "Bai2",
-        "projectPath": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\bai2\\Bai2.csproj",
+        "projectPath": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\Bai2\\Bai2.csproj",
         "packagesPath": "C:\\Users\\daide\\.nuget\\packages\\",
-        "outputPath": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\bai2\\obj\\",
+        "outputPath": "D:\\sgu26_NNLCsharp_C3\\Tuan01\\Buoi6\\Bai2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daide\\AppData\\Roaming\\NuGet\\NuGet.Config",
