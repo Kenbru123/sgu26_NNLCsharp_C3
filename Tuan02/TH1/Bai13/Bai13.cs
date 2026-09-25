@@ -5,8 +5,8 @@ namespace Tuan02.TH1
     class SinhVien
     {
         public double Mssv;
-        public string hoTen;
-        public string namhoc;
+        public string hoTen = string.Empty;
+        public string namhoc = string.Empty;
     }
     class Bai13
     {

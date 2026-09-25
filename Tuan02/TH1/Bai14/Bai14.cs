@@ -4,7 +4,7 @@ namespace Tuan02.TH1
 {
     class NhanVien
     {
-        public string hoTen;
+        public string hoTen = string.Empty;
         public double Luong;
         public int Songayvang;
     }

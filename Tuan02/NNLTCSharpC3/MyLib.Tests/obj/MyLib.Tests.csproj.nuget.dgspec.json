@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj": {}
+    "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj": {}
   },
   "projects": {
-    "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj": {
+    "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj",
+        "projectUniqueName": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj",
         "projectName": "MyLib.Tests",
-        "projectPath": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj",
+        "projectPath": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\MyLib.Tests.csproj",
         "packagesPath": "C:\\Users\\daide\\.nuget\\packages\\",
-        "outputPath": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\obj\\",
+        "outputPath": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daide\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj": {
-                "projectPath": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj"
+              "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj": {
+                "projectPath": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj"
               }
             }
           }
@@ -363,14 +363,14 @@
         }
       }
     },
-    "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj": {
+    "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj",
+        "projectUniqueName": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj",
         "projectName": "MyLib",
-        "projectPath": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj",
+        "projectPath": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj",
         "packagesPath": "C:\\Users\\daide\\.nuget\\packages\\",
-        "outputPath": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\obj\\",
+        "outputPath": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daide\\AppData\\Roaming\\NuGet\\NuGet.Config",

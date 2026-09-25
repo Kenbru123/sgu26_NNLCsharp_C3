@@ -54,8 +54,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj": {
-              "projectPath": "d:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj"
+            "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj": {
+              "projectPath": "D:\\sgu26_NNLCsharp_C3\\Tuan02\\NNLTCSharpC3\\MyLib\\MyLib.csproj"
             }
           }
         }

@@ -1,0 +1,14 @@
+D:\Program\C##\lab2TH2\bai3.1\bin\Debug\net9.0\bai3.1.exe
+D:\Program\C##\lab2TH2\bai3.1\bin\Debug\net9.0\bai3.1.deps.json
+D:\Program\C##\lab2TH2\bai3.1\bin\Debug\net9.0\bai3.1.runtimeconfig.json
+D:\Program\C##\lab2TH2\bai3.1\bin\Debug\net9.0\bai3.1.dll
+D:\Program\C##\lab2TH2\bai3.1\bin\Debug\net9.0\bai3.1.pdb
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\bai3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\bai3.1.AssemblyInfoInputs.cache
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\bai3.1.AssemblyInfo.cs
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\bai3.1.csproj.CoreCompileInputs.cache
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\bai3.1.dll
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\refint\bai3.1.dll
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\bai3.1.pdb
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\bai3.1.genruntimeconfig.cache
+D:\Program\C##\lab2TH2\bai3.1\obj\Debug\net9.0\ref\bai3.1.dll
