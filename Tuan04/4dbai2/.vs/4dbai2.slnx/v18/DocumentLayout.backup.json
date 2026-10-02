@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE1A347-A6E5-F54B-FDA2-051E65A99B9A}|4dbai2\\4dbai2.csproj|d:\\sgu26_nnlcsharp_c3\\tuan04\\4dbai2\\4dbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE1A347-A6E5-F54B-FDA2-051E65A99B9A}|4dbai2\\4dbai2.csproj|solutionrelative:4dbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A6E1BE-4B82-4CBB-BB90-1F01381727CF}|4dbai2\\4dbai2.csproj|D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\4dbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1A6E1BE-4B82-4CBB-BB90-1F01381727CF}|4dbai2\\4dbai2.csproj|solutionrelative:4dbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE1A347-A6E5-F54B-FDA2-051E65A99B9A}|4dbai2\\4dbai2.csproj|d:\\sgu26_nnlcsharp_c3\\tuan04\\4dbai2\\4dbai2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE1A347-A6E5-F54B-FDA2-051E65A99B9A}|4dbai2\\4dbai2.csproj|solutionrelative:4dbai2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\4dbai2\\Form1.cs",
+              "RelativeDocumentMoniker": "4dbai2\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\4dbai2\\Form1.cs [Design]",
+              "RelativeToolTip": "4dbai2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:24:41.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\4dbai2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "4dbai2\\Form1.Designer.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\4dbai2\\Form1.Designer.cs",
+              "RelativeToolTip": "4dbai2\\Form1.Designer.cs",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAqwOsBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:24:31.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\4dbai2\\Form1.cs",
+              "RelativeDocumentMoniker": "4dbai2\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan04\\4dbai2\\4dbai2\\Form1.cs*",
+              "RelativeToolTip": "4dbai2\\Form1.cs*",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAwIkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:24:21.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+﻿namespace bai1
+{
+    partial class form
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            Inputa = new TextBox();
+            Ta = new Label();
+            Tb = new Label();
+            Inputb = new TextBox();
+            plus = new Button();
+            minus = new Button();
+            multiply = new Button();
+            divide = new Button();
+            Tresult = new Label();
+            Outputresult = new TextBox();
+            errorProvider1 = new ErrorProvider(components);
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
+            SuspendLayout();
+            // 
+            // Inputa
+            // 
+            Inputa.Location = new Point(141, 63);
+            Inputa.Name = "Inputa";
+            Inputa.Size = new Size(125, 27);
+            Inputa.TabIndex = 0;
+            Inputa.KeyPress += txtSo_KeyPress;
+            // 
+            // Ta
+            // 
+            Ta.AutoSize = true;
+            Ta.Location = new Point(94, 66);
+            Ta.Name = "Ta";
+            Ta.Size = new Size(31, 20);
+            Ta.TabIndex = 1;
+            Ta.Text = "a =";
+            // 
+            // Tb
+            // 
+            Tb.AutoSize = true;
+            Tb.Location = new Point(358, 69);
+            Tb.Name = "Tb";
+            Tb.Size = new Size(32, 20);
+            Tb.TabIndex = 3;
+            Tb.Text = "b =";
+            // 
+            // Inputb
+            // 
+            Inputb.Location = new Point(405, 66);
+            Inputb.Name = "Inputb";
+            Inputb.Size = new Size(125, 27);
+            Inputb.TabIndex = 2;
+            Inputb.KeyPress += txtSo_KeyPress;
+            // 
+            // plus
+            // 
+            plus.Location = new Point(141, 219);
+            plus.Name = "plus";
+            plus.Size = new Size(76, 57);
+            plus.TabIndex = 4;
+            plus.Text = "+";
+            plus.UseVisualStyleBackColor = true;
+            plus.Click += button1_plus;
+            // 
+            // minus
+            // 
+            minus.Location = new Point(276, 219);
+            minus.Name = "minus";
+            minus.Size = new Size(76, 57);
+            minus.TabIndex = 5;
+            minus.Text = "-";
+            minus.UseVisualStyleBackColor = true;
+            minus.Click += button2_minus;
+            // 
+            // multiply
+            // 
+            multiply.Location = new Point(415, 219);
+            multiply.Name = "multiply";
+            multiply.Size = new Size(76, 57);
+            multiply.TabIndex = 6;
+            multiply.Text = "x";
+            multiply.UseVisualStyleBackColor = true;
+            multiply.Click += button3_multiply;
+            // 
+            // divide
+            // 
+            divide.Location = new Point(565, 219);
+            divide.Name = "divide";
+            divide.Size = new Size(76, 57);
+            divide.TabIndex = 7;
+            divide.Text = "/";
+            divide.UseVisualStyleBackColor = true;
+            divide.Click += button4_divide;
+            // 
+            // Tresult
+            // 
+            Tresult.AutoSize = true;
+            Tresult.Location = new Point(94, 152);
+            Tresult.Name = "Tresult";
+            Tresult.Size = new Size(45, 20);
+            Tresult.TabIndex = 9;
+            Tresult.Text = "result";
+            // 
+            // Outputresult
+            // 
+            Outputresult.Location = new Point(213, 149);
+            Outputresult.Name = "Outputresult";
+            Outputresult.Size = new Size(317, 27);
+            Outputresult.TabIndex = 8;
+            // 
+            // errorProvider1
+            // 
+            errorProvider1.ContainerControl = this;
+            // 
+            // form
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(Tresult);
+            Controls.Add(Outputresult);
+            Controls.Add(divide);
+            Controls.Add(multiply);
+            Controls.Add(minus);
+            Controls.Add(plus);
+            Controls.Add(Tb);
+            Controls.Add(Inputb);
+            Controls.Add(Ta);
+            Controls.Add(Inputa);
+            Name = "form";
+            Text = "a";
+            FormClosing += bai1_FormClosing;
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private TextBox Inputa;
+        private Label Ta;
+        private Label Tb;
+        private TextBox Inputb;
+        private Button plus;
+        private Button minus;
+        private Button multiply;
+        private Button divide;
+        private Label Tresult;
+        private TextBox Outputresult;
+        private ErrorProvider errorProvider1;
+    }
+}
