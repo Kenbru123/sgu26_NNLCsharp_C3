@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5cbai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD898647-D4E8-E6B7-AA6C-17CF74ABFC2E}|5cbai2\\5cbai2.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5cbai2\\5cbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD898647-D4E8-E6B7-AA6C-17CF74ABFC2E}|5cbai2\\5cbai2.csproj|solutionrelative:5cbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD898647-D4E8-E6B7-AA6C-17CF74ABFC2E}|5cbai2\\5cbai2.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5cbai2\\5cbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD898647-D4E8-E6B7-AA6C-17CF74ABFC2E}|5cbai2\\5cbai2.csproj|solutionrelative:5cbai2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5cbai2\\5cbai2\\Form1.cs",
+              "RelativeDocumentMoniker": "5cbai2\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5cbai2\\5cbai2\\Form1.cs",
+              "RelativeToolTip": "5cbai2\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T11:00:00.596Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5cbai2\\5cbai2\\Form1.cs",
+              "RelativeDocumentMoniker": "5cbai2\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5cbai2\\5cbai2\\Form1.cs [Design]",
+              "RelativeToolTip": "5cbai2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T10:49:53.477Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

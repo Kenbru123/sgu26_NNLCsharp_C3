@@ -1,0 +1,11 @@
+USE QLSinhVien;
+GO
+
+CREATE TABLE SinhVien
+(
+    MaSinhVien VARCHAR(20) PRIMARY KEY,
+    HoTen NVARCHAR(100) NOT NULL,
+    NgaySinh DATE NOT NULL,
+    MaLop VARCHAR(20) NOT NULL
+);
+GO

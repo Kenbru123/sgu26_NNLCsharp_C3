@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\formbai2tailop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|solutionrelative:5dbaitaptailopbai2\\formbai2tailop.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\formbai2tailop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|solutionrelative:5dbaitaptailopbai2\\formbai2tailop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\formbai2tailop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|solutionrelative:5dbaitaptailopbai2\\formbai2tailop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5003F416-1FD3-7616-CEDD-1F57B59A6C7C}|5dbaitaptailopbai2\\5dbaitaptailopbai2.csproj|solutionrelative:5dbaitaptailopbai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\Program.cs",
+              "RelativeDocumentMoniker": "5dbaitaptailopbai2\\Program.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\Program.cs",
+              "RelativeToolTip": "5dbaitaptailopbai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T03:34:07.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBai2TaiLop.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\FormBai2TaiLop.cs",
+              "RelativeDocumentMoniker": "5dbaitaptailopbai2\\FormBai2TaiLop.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\FormBai2TaiLop.cs [Design]",
+              "RelativeToolTip": "5dbaitaptailopbai2\\FormBai2TaiLop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T16:46:50.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBai2TaiLop.Designer.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\FormBai2TaiLop.Designer.cs",
+              "RelativeDocumentMoniker": "5dbaitaptailopbai2\\FormBai2TaiLop.Designer.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\FormBai2TaiLop.Designer.cs",
+              "RelativeToolTip": "5dbaitaptailopbai2\\FormBai2TaiLop.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T16:39:14.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBai2TaiLop.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\FormBai2TaiLop.cs",
+              "RelativeDocumentMoniker": "5dbaitaptailopbai2\\FormBai2TaiLop.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitaptailopbai2\\5dbaitaptailopbai2\\FormBai2TaiLop.cs",
+              "RelativeToolTip": "5dbaitaptailopbai2\\FormBai2TaiLop.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAYwNYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T16:39:13.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

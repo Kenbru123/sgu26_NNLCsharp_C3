@@ -1,0 +1,12 @@
+CREATE DATABASE QLSinhVien;
+GO
+
+USE QLSinhVien;
+GO
+
+CREATE TABLE MonHoc
+(
+    MaMonHoc VARCHAR(20) PRIMARY KEY,
+    TenMonHoc NVARCHAR(100) NOT NULL
+);
+GO

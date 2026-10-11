@@ -1,0 +1,10 @@
+USE QLSinhVien;
+GO
+
+CREATE TABLE Lop
+(
+    MaLop VARCHAR(20) PRIMARY KEY,
+    TenLop NVARCHAR(100) NOT NULL,
+    MaKhoa VARCHAR(20) NOT NULL
+);
+GO

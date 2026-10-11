@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\formnhaphocvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|solutionrelative:5dbaitapnangcao\\formnhaphocvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\formnhaphocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|solutionrelative:5dbaitapnangcao\\formnhaphocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\formnhaphocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|solutionrelative:5dbaitapnangcao\\formnhaphocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\formbainangcao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|solutionrelative:5dbaitapnangcao\\formbainangcao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\formbainangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|solutionrelative:5dbaitapnangcao\\formbainangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\formbainangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C3A81C-CB6A-75EC-9C21-8CC2982A3BA8}|5dbaitapnangcao\\5dbaitapnangcao.csproj|solutionrelative:5dbaitapnangcao\\formbainangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5dbaitapnangcao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBaiNangCao.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormBaiNangCao.cs",
+              "RelativeDocumentMoniker": "5dbaitapnangcao\\FormBaiNangCao.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormBaiNangCao.cs [Design]",
+              "RelativeToolTip": "5dbaitapnangcao\\FormBaiNangCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T04:02:14.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNhapHocVien.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormNhapHocVien.cs",
+              "RelativeDocumentMoniker": "5dbaitapnangcao\\FormNhapHocVien.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormNhapHocVien.cs [Design]",
+              "RelativeToolTip": "5dbaitapnangcao\\FormNhapHocVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T03:10:10.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNhapHocVien.Designer.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormNhapHocVien.Designer.cs",
+              "RelativeDocumentMoniker": "5dbaitapnangcao\\FormNhapHocVien.Designer.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormNhapHocVien.Designer.cs",
+              "RelativeToolTip": "5dbaitapnangcao\\FormNhapHocVien.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA5wHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T02:57:27.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNhapHocVien.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormNhapHocVien.cs",
+              "RelativeDocumentMoniker": "5dbaitapnangcao\\FormNhapHocVien.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormNhapHocVien.cs",
+              "RelativeToolTip": "5dbaitapnangcao\\FormNhapHocVien.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T02:57:25.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBaiNangCao.Designer.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormBaiNangCao.Designer.cs",
+              "RelativeDocumentMoniker": "5dbaitapnangcao\\FormBaiNangCao.Designer.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormBaiNangCao.Designer.cs",
+              "RelativeToolTip": "5dbaitapnangcao\\FormBaiNangCao.Designer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAA9wI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T02:43:41.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormBaiNangCao.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormBaiNangCao.cs",
+              "RelativeDocumentMoniker": "5dbaitapnangcao\\FormBaiNangCao.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\FormBaiNangCao.cs",
+              "RelativeToolTip": "5dbaitapnangcao\\FormBaiNangCao.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAwwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T02:43:40.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\Form1.cs",
+              "RelativeDocumentMoniker": "5dbaitapnangcao\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\5dbaitapnangcao\\5dbaitapnangcao\\Form1.cs [Design]",
+              "RelativeToolTip": "5dbaitapnangcao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T02:29:01.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

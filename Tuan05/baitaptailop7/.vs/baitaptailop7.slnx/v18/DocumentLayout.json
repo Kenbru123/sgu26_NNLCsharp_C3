@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\baitaptailop7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1231867D-7AE1-6CF0-EE17-B2EEBBC3C0D2}|baitaptailop7\\baitaptailop7.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\baitaptailop7\\baitaptailop7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1231867D-7AE1-6CF0-EE17-B2EEBBC3C0D2}|baitaptailop7\\baitaptailop7.csproj|solutionrelative:baitaptailop7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231867D-7AE1-6CF0-EE17-B2EEBBC3C0D2}|baitaptailop7\\baitaptailop7.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\baitaptailop7\\baitaptailop7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231867D-7AE1-6CF0-EE17-B2EEBBC3C0D2}|baitaptailop7\\baitaptailop7.csproj|solutionrelative:baitaptailop7\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1231867D-7AE1-6CF0-EE17-B2EEBBC3C0D2}|baitaptailop7\\baitaptailop7.csproj|d:\\sgu26_nnlcsharp_c3\\tuan05\\baitaptailop7\\baitaptailop7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1231867D-7AE1-6CF0-EE17-B2EEBBC3C0D2}|baitaptailop7\\baitaptailop7.csproj|solutionrelative:baitaptailop7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\baitaptailop7\\baitaptailop7\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "baitaptailop7\\Form1.Designer.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\baitaptailop7\\baitaptailop7\\Form1.Designer.cs",
+              "RelativeToolTip": "baitaptailop7\\Form1.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T03:06:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\baitaptailop7\\baitaptailop7\\Form1.cs",
+              "RelativeDocumentMoniker": "baitaptailop7\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\baitaptailop7\\baitaptailop7\\Form1.cs",
+              "RelativeToolTip": "baitaptailop7\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T03:06:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\baitaptailop7\\baitaptailop7\\Form1.cs",
+              "RelativeDocumentMoniker": "baitaptailop7\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan05\\baitaptailop7\\baitaptailop7\\Form1.cs [Design]",
+              "RelativeToolTip": "baitaptailop7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T02:51:37.206Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
