@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sgu26_NNLCsharp_C3\\Tuan06\\6bbaitapnangcao1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35316FD3-90AB-4A61-B14F-8EE0530227DC}|6bbaitapnangcao1\\6bbaitapnangcao1.csproj|d:\\sgu26_nnlcsharp_c3\\tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35316FD3-90AB-4A61-B14F-8EE0530227DC}|6bbaitapnangcao1\\6bbaitapnangcao1.csproj|solutionrelative:6bbaitapnangcao1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35316FD3-90AB-4A61-B14F-8EE0530227DC}|6bbaitapnangcao1\\6bbaitapnangcao1.csproj|d:\\sgu26_nnlcsharp_c3\\tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35316FD3-90AB-4A61-B14F-8EE0530227DC}|6bbaitapnangcao1\\6bbaitapnangcao1.csproj|solutionrelative:6bbaitapnangcao1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35316FD3-90AB-4A61-B14F-8EE0530227DC}|6bbaitapnangcao1\\6bbaitapnangcao1.csproj|d:\\sgu26_nnlcsharp_c3\\tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35316FD3-90AB-4A61-B14F-8EE0530227DC}|6bbaitapnangcao1\\6bbaitapnangcao1.csproj|solutionrelative:6bbaitapnangcao1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "6bbaitapnangcao1\\Form1.Designer.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\Form1.Designer.cs",
+              "RelativeToolTip": "6bbaitapnangcao1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:43:53.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\Form1.cs",
+              "RelativeDocumentMoniker": "6bbaitapnangcao1\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\Form1.cs",
+              "RelativeToolTip": "6bbaitapnangcao1\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwGEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:42:15.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\sgu26_NNLCsharp_C3\\Tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\Form1.cs",
+              "RelativeDocumentMoniker": "6bbaitapnangcao1\\Form1.cs",
+              "ToolTip": "D:\\sgu26_NNLCsharp_C3\\Tuan06\\6bbaitapnangcao1\\6bbaitapnangcao1\\Form1.cs [Design]",
+              "RelativeToolTip": "6bbaitapnangcao1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T03:37:02.435Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
